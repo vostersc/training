@@ -1,7 +1,7 @@
 1. Not understanding async inside of try catch.
   Async code inside of a try catch statement. If your async code throws an error inside a try catch statement it will not end up in the catch, to many people's shock. 
   This is because of the async and sync flow. First the try catch is entered into. Then the async code fires. Then the try catch is completed. Then the async code throws the error. 
-  It ends up in process since you didn't handle it correctly. For another example and explanation see [this](https://stackoverflow.com/questions/16316815/catch-statement-does-not-catch-thrown-error) link.
+  It ends up in process since you didn't handle it correctly. For another example and explanation see [this](https://stackoverflow.com/questions/68102365/why-is-try-catch-not-working-with-async-await-function) link.
   
 try {
   axios.post(config.requestUrl, {}).catch(e => {console.log(e)}); //with out the .catch, the error would remain unhandled
