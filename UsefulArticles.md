@@ -11,3 +11,9 @@
 ## Books
 - [The best book for mastering Javascript.](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 - [A great book on mastering Git](https://git-scm.com/book/en/v2)
+
+## Bugs
+- [Stack overflow on the bugs per line of code.](https://stackoverflow.com/questions/2898571/basis-for-claim-that-the-number-of-bugs-per-line-of-code-is-constant-regardless)
+- [Industry average of bugs per line in production is between 1 and 5 per 100 lines, depending on complexity, competence, other related factors.](https://amartester.blogspot.com/2007/04/bugs-per-lines-of-code.html?ck_subscriber_id=2400214932&utm_source=convertkit&utm_medium=email&utm_campaign=Let+small+fires+burn+-+14774391&m=1)
+- [Bugs and refactoring - what makes a refactor worth the effort?](https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio)
+- [On Defect tracking and releases.](https://stevemcconnell.com/articles/gauging-software-readiness-with-defect-tracking/)
