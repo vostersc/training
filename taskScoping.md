@@ -13,7 +13,7 @@ Ratings don't equal points. Ratings are 1 - 5. Points are derived from ratings m
 ## Example
 - .5 (.5? pts) - A very quick fix. Takes more time to test, PR, merge than to fix.
 - 1 (1 pts) - A quick fix or research.
-- 2 (2 pts) - Typical a bug.
+- 2 (2 pts) - A typical bug.
 - 3 (5 pts) - Refactor or feature.
 - 4 (8 pts) - Large refactor or large feature.
 - 5 (13 pts) - You shouldn't get a rating this high. The task likely needs to be broken down. Typically only retroactivly scored.
