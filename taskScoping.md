@@ -1,5 +1,5 @@
 # A Guide on How to Assign Points
-Note: scoping varies from team to team. These points probably won't map to yours. This is simply a starting guide. Much of scoping is situational.
+Note: scoping varies from team to team. These points probably won't map to yours. This is simply a starting guide. Much of scoping is situational and some teams purposefully don't even define points.
 Ratings don't equal points. Ratings are 1 - 5. Points are derived from ratings meaning giving a task a 3 would give the task 5 points. Giving a task a 5 means giving the task 13 points. Points increase exponentially with ratings because larger tasks are more difficult to scope correctly. By exponentially increasing the number of points rewarded you give more leway for unforseen events.
 ## Relevant
 1. Quantity of code can imply increased task complexity.
