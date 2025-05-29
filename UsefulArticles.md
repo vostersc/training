@@ -3,6 +3,7 @@
 - [Happy pathing and how it improves readability.](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 - [Error handling patterns and happy pathing.](https://medium.com/knock-engineering/happy-path-error-handling-1f698068a345)
 - [Don't use try catch. Instead use the ".then(r => [r, null]).catch(e => [null, e])" pattern.]()
+- [Pass objects to functions not standard args.](https://medium.com/coding-at-dawn/why-you-should-always-pass-objects-as-function-parameters-in-javascript-7fb7c5833dc6)
 
 ## Articles
 - [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
