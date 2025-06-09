@@ -5,6 +5,11 @@
 - [Don't use try catch. Instead use the ".then(r => [r, null]).catch(e => [null, e])" pattern.]()
 - [Pass objects to functions not standard args.](https://medium.com/coding-at-dawn/why-you-should-always-pass-objects-as-function-parameters-in-javascript-7fb7c5833dc6)
 
+## Architecture
+- [The importance of view and render separation in the frontend, and how to do it.](https://dev.to/tomekbuszewski/high-level-view-and-logic-separation-in-react-39n0).
+- [Modularization and how to write modularized code.](https://daily.dev/blog/what-is-modular-programming#:~:text=Modular%20programming%20is%20a%20technique,reusability%20of%20code%20across%20projects.)
+- [Decomposition in functional programming](https://softwareengineering.stackexchange.com/questions/402979/what-does-it-mean-for-a-method-or-a-function-to-do-one-thing).
+
 ## Articles
 - [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
 - [Naming for CSS.](https://getbem.com/introduction/)
