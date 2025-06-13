@@ -13,3 +13,16 @@ How do you have a Retro/Meeting where you discuss issues while avoiding finger p
 Avoid finger pointing by focusing on sociological questions, topics, not psychological ones. E.g. "how can we reduce the likelihood that this mistake happens"? Sociological problems focus on fixing processes, cultures, and environments, not the individuals that operate therin.
 
 In contrast, psychological questions dig into individual issues. They typically do not belong in public meetings. Psychological questions often become accusatory in public meetings. E.g. "why did you do X and not Y?"
+
+
+### (NOT COMPLETE IN PROGRESS) Creating a Culture where Mistakes and Lack of Knowledge isn't Covered Up
+How do you create a culture where engineers don't hide mistakes or lack of knowledge?
+
+Engineers hide things because they are protecting their egos or their careers, because they don't belive admitting would change anything, or because admitting a mistake or lack of knowledge would slow things down.
+
+Some solutions are:
+- eliminate hero prestige culture
+- normalize saying I don't know (model this)
+- treat pointing out problems as a sign of technical maturity, because it is
+- normalize leadership and other devs making mistakes (mistake of the week)
+- stop fast/hot fixes as much as possible
