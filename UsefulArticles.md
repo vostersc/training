@@ -26,6 +26,9 @@
 - [Bugs and refactoring - what makes a refactor worth the effort?](https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio)
 - [On Defect tracking and releases.](https://stevemcconnell.com/articles/gauging-software-readiness-with-defect-tracking/)
 
+## Management
+- [Struggling to gain context is a driver of developer indfficiency. Could good documentation improve this?](https://www.cortex.io/report/the-2024-state-of-developer-productivity?utm_source=chatgpt.com)
+
 ## Misc
 - [The problem with measuring what could be completed by average points accomplished.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
 - 
