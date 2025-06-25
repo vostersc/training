@@ -1,4 +1,4 @@
-### Why Modularization is the Solution to the C-Suite AI Push
+### Why Heavy Modularization is the Solution to the C-Suite AI Push
 This post assumes you are being forced to heavily implement AI. Heavy means 80% percent of pushed code being AI generated. If you work in such a situation heavy modularization is the only solution, likely in the form of a microservice esque setup.
 
 Studies repeatedly show that the developer who wrote the code fixes the bugs faster and more thoroughly. If AI writes the code and can't fix it that means slower, more complicated, and less thorough bug fixes.
