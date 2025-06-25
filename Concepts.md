@@ -1,3 +1,14 @@
+### Why Modularization is the Solution to the C-Suite AI Push
+This post assumes you are being forced to heavily implement AI. Heavy means 80% percent of pushed code being AI generated. If you work in such a situation heavy modularization is the only solution, likely in the form of a microservice esque setup.
+
+Studies repeatedly show that the developer who wrote the code fixes the bugs faster and more thoroughly. If AI writes the code and can't fix it that means slower, more complicated, and less thorough bug fixes.
+
+The way around this is heavy modularization so the AI can't mix in other code. If it only has access to one folder then it can only create a certain level of confusion. Additionally, clearly defined outputs and inputs, single purpose groupings, and other basic CS principles will be even more important than before. If you don't modularize well it will blow up in your face worse than before.
+
+One response is that you can jsut create modular tasks and only ask the AI to write modular code. But if AI is writing 80% of your code then you will inevitably miss something. This means after one, two, three years the code will be a mess. 
+
+The solution to this is a hard "physical" barrier, like a microservice type container. Folders could also play a role if AI could be constrained to the folder level. Hard barriers force developers to clearly define inputs and outputs, allowing them to use heavily AI generated code, playing legos with the results, and saving themselves from taking days to solve bugs in a nightmare codebase.
+
 ### The Anti-Motivation Motivational Message
 Don’t focus on motivation. Motivation is like a sensitive test. Sometimes it works, sometimes it doesn’t, and sometimes it depends on your QA environment.
 
