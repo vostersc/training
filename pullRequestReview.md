@@ -1,13 +1,14 @@
 ## Pull Request: Things to Check
 ### Basics
-1. Have you reviewed your own code? Are there comments, explanations, questions, and notes on your PR?
-2. Have you QA'd your own code? Consider making a screen recording to attach to your QA request.
-3. How well are your functions, variables, commits, branches named? Are functions action oriented and descriptive? Could someone new figure out what a function is doing with out reading the code?
-4. How verbose is your code? Does the verbosity make it easier or harder to understand? Can you eliminate code with out making it less readable? Are you duplicating unnecessarily?
-5. Too many or too few tests? Are you handling edge conditions like objects that are null, undefined, or an incorrect datatype?
-6. Are you mutating and reassigning unnecessarily? Both make the codebase difficult, do these as little as possible.
-7. Are you following code patterns established by code already in the area?
-8. Are you using prebuilt utility type functions in the app?
+1. If this code were to break, what is the most likely cause? Did you minimize this risk?
+2. Have you reviewed your own code? Are there comments, explanations, questions, and notes on your PR?
+3. Have you QA'd your own code? Consider making a screen recording to attach to your QA request.
+4. How well are your functions, variables, commits, branches named? Are functions action oriented and descriptive? Could someone new figure out what a function is doing with out reading the code?
+5. How verbose is your code? Does the verbosity make it easier or harder to understand? Can you eliminate code with out making it less readable? Are you duplicating unnecessarily?
+6. Too many or too few tests? Are you handling edge conditions like objects that are null, undefined, or an incorrect datatype?
+7. Are you mutating and reassigning unnecessarily? Both make the codebase difficult, do these as little as possible.
+8. Are you following code patterns established by code already in the area?
+9. Are you using prebuilt utility type functions in the app?
 ### Client Side
 1. Have you checked how your component looks in mobile and desktop mode?
 2. Are you allowing SQL injection? (Look for things like innerHtml where someone could pass in an image with an onload function.)
