@@ -14,6 +14,8 @@
 ### Server Side
 1. Are you properly structuring service/controller/other files?
 2. Are you mananging security concerns like SQL injection? Are you validating inputs?
+### Architecture
+1. Is your code modular? Are the inputs and outputs well defined? Are issue areas correctly isolated?
 ### Big Picture
 1. How is this PR an improvement on your last one?
 2. Are you committing the repo/team/company to repos/patterns that will make things difficult in the long run?
