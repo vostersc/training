@@ -10,6 +10,7 @@
 - [Modularization and how to write modularized code.](https://daily.dev/blog/what-is-modular-programming#:~:text=Modular%20programming%20is%20a%20technique,reusability%20of%20code%20across%20projects.)
 - [Decomposition in functional programming](https://softwareengineering.stackexchange.com/questions/402979/what-does-it-mean-for-a-method-or-a-function-to-do-one-thing).
 - [Single responsiblity in terms of what APIs should and should not do](https://softwareengineering.stackexchange.com/questions/388026/is-it-bad-practice-to-use-a-single-endpoint-to-do-multiple-similar-tasks).
+- [How the AI push could affect architecture](https://navid2zp.medium.com/architecture-for-ai-microservices-were-worth-it-after-all-f53c56ad3e1c).
 
 ## Articles
 - [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
