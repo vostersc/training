@@ -37,3 +37,4 @@ Some solutions are:
 - treat pointing out problems as a sign of technical maturity, because it is
 - normalize leadership and other devs making mistakes (mistake of the week)
 - stop fast/hot fixes as much as possible
+- stop focusing on verbal commitments and instead on days where they demonstrate what they've done
