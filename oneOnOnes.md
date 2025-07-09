@@ -8,6 +8,7 @@ However, I've carved this time out of my schedule so you can discuss what you fe
 
 ## Potential 1:1 discussion topics:
 - Follow up on past 1:1s, problems, and goals. How are you progressing with the feedback you've received?
+- What problems or sub optimal situations can we fix/eliminate/minimize?
 - Career goals and direction. Are your tasks moving you in the right direction? Are you excited about any future projects or initiatives?
 - Feedback and difficulties. Where do you see room for improvement on a team, codebase, or personal level? What's one thing you'd like to change?
 - Codebase questions and learning. Are there areas of the codebase we should discuss to help you feel more comfortable?
