@@ -1,3 +1,6 @@
+### Why You Should Enter All Conversations Knowing You Could Be Wrong
+[The new and improved Gas Tesla.](https://www.youtube.com/shorts/pXVwt3BPPlE)
+
 ### Why Heavy Modularization is the Solution to the C-Suite AI Push
 This post assumes you are being forced to heavily implement AI. Heavy means 80% percent of pushed code being AI generated. If you work in such a situation heavy modularization is the only solution, likely in the form of a microservice esque setup.
 
