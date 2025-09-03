@@ -5,6 +5,7 @@
 - [Don't use try catch. Instead use the ".then(r => [r, null]).catch(e => [null, e])" pattern.]()
 - [Pass objects to functions not standard args.](https://medium.com/coding-at-dawn/why-you-should-always-pass-objects-as-function-parameters-in-javascript-7fb7c5833dc6)
 - [Issues with nesting if statements.](https://www.google.com/url?q=https://youtu.be/CFRhGnuXG-4&source=gmail-imap&ust=1717043496000000&usg=AOvVaw3pQuNaKJOT30xRMGNTIpd3)
+- [Write more readable code with if statement abstraction](https://medium.com/readable-code/readable-code-how-to-write-readable-conditional-statements-626cb17a1d2a). [See also this StackOverflow](https://stackoverflow.com/questions/253030/best-way-to-format-if-statement-with-multiple-conditions?utm_source=chatgpt.com).
 
 ## Architecture
 - [The importance of view and render separation in the frontend, and how to do it.](https://dev.to/tomekbuszewski/high-level-view-and-logic-separation-in-react-39n0).
