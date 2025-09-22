@@ -49,6 +49,7 @@
 - What area of databases are you least comfortable with?
 
 ## JavaScript
+- **Compare and contrast JavaScript with other languages you've used.**
 - **Talk to me about the differences between functional and object oriented programming? (1) objects and methods vs functions and new data (2) mutation vs avoiding mutation (3) encapsulation, inheritance vs immutability, purity, first class fn()s passed as args**
 - Tell me what you know about the differences between functional and block scope, and concept of lexical scope (js) vs dynamic scope? (1) within function (2) within the block like if statements (3) run based scope vs written based scope
 - Talk to me about hoisting and how you've used it in the past? (1) typically top to bottom as far as references (2) hoisting allows you to do things like write the function below
