@@ -52,7 +52,7 @@
 - **Talk to me about the differences between functional and object oriented programming? (1) objects and methods vs functions and new data (2) mutation vs avoiding mutation (3) encapsulation, inheritance vs immutability, purity, first class fn()s passed as args**
 - Tell me what you know about the differences between functional and block scope, and concept of lexical scope (js) vs dynamic scope? (1) within function (2) within the block like if statements (3) run based scope vs written based scope
 - Talk to me about hoisting and how you've used it in the past? (1) typically top to bottom as far as references (2) hoisting allows you to do things like write the function below
-- **What is the difference between JavaScript and Java classes? (1) blueprints and copies vs. prototype links (2) static (determined at compile) vs. dynamic typing (change at run time for flexibility)**
+- **What is the difference between JavaScript and Java classes? (1) independent copies vs. prototype links (2) static (determined at compile) vs. dynamic typing (change at run time for flexibility)**
 - Explain closure in JS. (Remembers context, variables from outside/inside written scope. Can return a function and it remembers parent var state.)
 - What area of JS are you least comfortable with?
 - Talk to me about implicit, explicit, new, and default binding in JS. (Implicit this refers to object on which method is called, Explicit call() bind() apply(), new this refers to that new obj, default this goes to the window.)
