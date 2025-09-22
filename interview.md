@@ -24,6 +24,7 @@
 - **Tell us about a recent project or feature that you built. Walk me through the most difficult parts.**
 - Grab some code you've written and walk me through what is happening and why you set it up the way you did.
 - **What design patterns do you find yourself using on the regular? (1) Adapter to go between db and frontend object expectations (2) Decorator for adding on headers, a limited db object (3) Facade/Lenses/Interfaces to simplify interaction with complex data or query systems, or to abstract away the data structure itself so it can change (4) Observer to notify children of parent updates**
+- Have them build YouTube.
 
 ## DevOps
 - **Tell us about a devOps system that you set up that you are proud of and why.**
@@ -55,5 +56,6 @@
 - Explain closure in JS. (Remembers context, variables from outside/inside written scope. Can return a function and it remembers parent var state.)
 - What area of JS are you least comfortable with?
 - Talk to me about implicit, explicit, new, and default binding in JS. (Implicit this refers to object on which method is called, Explicit call() bind() apply(), new this refers to that new obj, default this goes to the window.)
+**- Show some code you wrote and walk through why you set it up that way. OR Show bad code and ask them what they'd change.**
 - [Set timeOut interview question](https://www.google.com/search?q=set+timeout+question+interview+question&rlz=1C5GCEM_en&oq=set+timeout+question+interview+question&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTE2MTQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) [See also](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch5.md)
 
