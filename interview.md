@@ -8,6 +8,7 @@
 - **Tell me about the worst programming mistake you've made, why it was the worst, and what you did to fix it.**
 - How do explain to JRs when they should ask for help? How do you decide when to ask for help?
 - **Tell me about a project where someone else's idea proved better than yours? How did you handle it?**
+- How do you feel about scrum vs. waterfall.
 
 ## Leadership
 - **What have you seen work well or poorly at the organization level, the team level, and at the individual level?**
@@ -45,6 +46,7 @@
 - When would you choose mongo over sql.
 - **Describe some of the past database setups you've used. What were their strengths and weaknesses?**
 - What area of databases are you least comfortable with?
+- Talk to me about normalization, how you'd approach normalizing an unstructured database setup.
 
 ## JavaScript
 - **Compare and contrast JavaScript with other languages you've used.**
