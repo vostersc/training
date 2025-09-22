@@ -1,9 +1,7 @@
-## Overview
+## Fit and Overview
 - **Tell me your life story and what are some of the major problems you've solved?**
 - Talk to me about your career and the technical skills you gained at each step.
 - What do you typically do to prepare for interviews?
-
-## Fit
 - **What do you do in your spare time? What are you obsessed with?**
 - What are you excited for in upcoming javascript, node, vue/react releases?
 - Tell me about a stressful work situation and what you took away from it?
