@@ -10,6 +10,7 @@
 - How do explain to JRs when they should ask for help? How do you decide when to ask for help?
 - **Tell me about a project where someone else's idea proved better than yours? How did you handle it?**
 - How do you feel about scrum vs. waterfall.
+- **What fictional character and world would you live in, if I made you choose one, and why?"**
 
 ## Leadership
 - **What have you seen work well or poorly at the organization level, the team level, and at the individual level?**
