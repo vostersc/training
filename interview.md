@@ -1,6 +1,6 @@
 ## Fit and Overview
 - **Tell me your life story. What are some of the major problems you've solved?**
-- **What do you think about thus quote: "to be a good leader you must first be a good follower"?
+- **What do you think about thus quote: "to be a good leader you must first be a good follower"?**
 - Talk to me about your career and the technical skills you gained at each step.
 - What do you typically do to prepare for interviews?
 - **What do you do in your spare time? What are you obsessed with?**
