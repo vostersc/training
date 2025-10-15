@@ -10,7 +10,7 @@ The way around this is heavy modularization so the AI can't mix in other code. I
 
 One response is that you can jsut create modular tasks and only ask the AI to write modular code. But if AI is writing 80% of your code then you will inevitably miss something. This means after one, two, three years the code will be a mess. 
 
-The solution to this is a hard "physical" barrier, like a microservice type container. Folders could also play a role if AI could be constrained to the folder level. Hard barriers force developers to clearly define inputs and outputs, allowing them to use heavily AI generated code, playing legos with the results, and saving themselves from taking days to solve bugs in a nightmare codebase.
+The solution to this is a hard "physical" barrier, like a microservice type container. Folders could also play a role if AI could be constrained to the folder level. Hard barriers force developers to clearly define inputs and outputs, allowing them to use heavily AI generated code, playing legos with the results, and saving themselves from taking days to solve bugs in a nightmare codebase. The downside is you'll see increased switching costs.
 
 ### The Anti-Motivation Motivational Message
 Don’t focus on motivation. Motivation is like a sensitive test. Sometimes it works, sometimes it doesn’t, and sometimes it depends on your QA environment.
