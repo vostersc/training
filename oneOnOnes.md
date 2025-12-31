@@ -6,7 +6,7 @@ In my experience, the best one-on-ones are problem solving sessions where we dis
 ## Example 1:1 Agenda
 1. HR Topics
 2. Dev Topics
-3. Discuss Past Sprint Performance and the Guiding Theme - Team or Individual. [Definitions](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
+3. Discuss Past Sprint Performance and the Guiding Theme - Team or Individual. [Performance Definitions](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
 4. Discuss Next Sprint's Guiding Theme - [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
 
 ## Potential 1:1 discussion topics:
