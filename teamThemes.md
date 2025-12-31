@@ -3,21 +3,25 @@
 - Guide each sprint.
 
 #### Anti-fragile
-- Explanation:
-- Questions to Discuss:
-- What We Learned:
-- Next Steps: 
+- Theory:
+- Application:
+  - 
+- Discussion Quesions:
+  - In what ways is our team/code too strict?
+- Next Steps:
 
 #### 5 Disfunctions of a Team (#1 Trust)
-- Explanation:
-- Questions to Discuss:
-- What We Learned:
+- Theory: 
+- Application:
+- Discussion Quesions:
 - Next Steps:
 
 #### Single Responsiblity Principle
-- Explanation:
-- Questions to Discuss:
-- What We Learned:
+- Theory: A grouping of code (class, module, function) should do one thing. 
+- Application:
+- Discussion Quesions:
+  - What does "one thing" mean?
+  - Why does this matter?
 - Next Steps:
 
   So on...
