@@ -5,7 +5,7 @@
 #### Anti-fragile
 - Theory:
 - Application:
-  - 
+  - eg
 - Discussion Quesions:
   - In what ways is our team/code too strict?
 - Next Steps:
