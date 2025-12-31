@@ -1,6 +1,19 @@
-## This document defines my view of Sr, Mid, Jr.
-## In progress
+## This document defines my view of Sr, Mid, Jr. in terms of Performance (In Progress)
 For promotions you should be performing at the level you are seeking. If it walks like a duck and quacks like a duck... Additionally I have to advocate for your promotion and not be afraid of losing credibility.
+
+## Performance Categories
+1. Dilligence - Do you work hard? Do you care about quality? Are your proactive?
+2. Teamwork - Do you proactively communicate? Do you participate and pitch in?
+3. Judgement - Can I trust what you tell me?
+4. Skill - How good are you at your core job?
+
+#### Rating Definitions 1 - 4
+1. You are making serious mistakes. Please rectify your behavior, quickly.
+2. You are performing as expected for a mid level.
+3. You are performing as expected for a senior/team lead.
+4. You are doing extremely well. I'll likely use you as an example to the department.
+
+## Roles
 
 ### Jr.
 I don't typically hire JRs.
