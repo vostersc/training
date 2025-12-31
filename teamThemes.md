@@ -2,6 +2,15 @@
 - Technical/practical or psychological/sociological concepts targeted at high leverage issues.
 - Vision to guide each sprint.
 
+## Single Responsiblity Principle
+- **Theory:**
+  - A grouping of code (class, module, function) should do one thing. 
+- **Application:**
+- **Discussion Quesions:**
+  - What does "one thing" mean?
+  - Why does this matter?
+- **Next Steps:**
+
 ## Anti-fragile
 - **Theory:**
 - **Application:**
@@ -16,13 +25,6 @@
 - **Discussion Quesions:**
 - **Next Steps:**
 
-## Single Responsiblity Principle
-- **Theory:**
-  - A grouping of code (class, module, function) should do one thing. 
-- **Application:**
-- **Discussion Quesions:**
-  - What does "one thing" mean?
-  - Why does this matter?
-- **Next Steps:**
+
 
   So on...
