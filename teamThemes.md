@@ -1,5 +1,5 @@
 # Team Themes
-- Technical or psychological/sociological concepts targeted at high leverage issues.
+- Technical/practical or psychological/sociological concepts targeted at high leverage issues.
 - Vision to guide each sprint.
 
 ## Anti-fragile
