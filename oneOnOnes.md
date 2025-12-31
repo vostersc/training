@@ -8,7 +8,7 @@ However, I've carved this time out of my schedule so you can discuss what you fe
 
 ## Example 1:1 Agenda
 1. HR Topics
-2. Discuss Past Sprint Performance and the Guiding Theme - Team or Individual
+2. Discuss Past Sprint Performance and the Guiding Theme - Team or Individual. [Definitions](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
 3. Discuss Next Sprint's Guiding Theme - [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
 4. Dev Led Topics
 
