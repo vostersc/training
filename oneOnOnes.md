@@ -1,5 +1,5 @@
 ## Why 1:1s?
-My primary goal is to ensure that you are happy with your postition, and that the company is happy with you. I'll share what the company needs most. Listening carefully gives you an opportunity to understand how promotions happen. I'll also share where you stand from a performance standpoint. I try to include a mini performance review in most 1:1s so you aren't caught off guard at the end of the quarter.
+My primary goal is to ensure that you are happy with your postition, and that the company is happy with you. I'll share what the company needs most. Listening carefully queues you in to how promotions happen here. I'll also share where you stand from a performance standpoint. I try to include a mini performance review in most 1:1s so you aren't caught off guard at the end of the quarter.
 
 I'll try to share my own goals and problems. I hope you'll reciprocate. In my experience, the best one-on-ones are problem solving sessions where we put our heads together and try to make something just a little bit better. However, you can't have a good problem solving session if one side is too afraid to be vulnerable because it might damage their image. Know that you don't have to be perfect to get promoted here.
 
