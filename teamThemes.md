@@ -1,6 +1,6 @@
-# Team Theme/Vision
+# Team Themes
 - Technical or psychological/sociological concepts targeted at high leverage issues.
-- Guide each sprint.
+- Vision to guide each sprint.
 
 ## Anti-fragile
 - **Theory:**
