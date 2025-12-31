@@ -1,13 +1,15 @@
 ## Why 1:1s?
-From a management perspective, my primary goal is to ensure that you and the company are satisfied. I'd like to know if you enjoy your tasks. I'd like to know if you feel comfortable contributing and affecting change. It also means exploring ways we can improve the status quo so everyone can better achieve their goals.
+From a management perspective, my primary goal is to ensure that you and the company are satisfied. I'd like to know if you enjoy your tasks. I'd like to know if you feel comfortable contributing and affecting change. It also means exploring ways we can improve the status quo so everyone can better achieve their goals. I don't like being blindsided so I try to convey where you stand, performance wise, in one on ones.
 
 In my experience, the best one-on-ones are problem solving sessions where we discuss what I can do to help you achive a goal or solve a problem.
 
 ## Example 1:1 Agenda
+Typically I hold one on ones at the beginning of each sprint.
 1. HR Topics
-2. Dev Topics
+2. Dev Topics - What do you want to talk about?
 3. Discuss Past Sprint Performance and the Guiding Theme - Team or Individual. [Performance Definitions](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
 4. Discuss Next Sprint's Guiding Theme - [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
+5. Initiate or Schedule Any Next Steps
 
 ## Potential 1:1 discussion topics:
 - Follow up on past 1:1s, problems, and goals. How are you progressing with the feedback you've received?
