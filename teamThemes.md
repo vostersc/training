@@ -1,4 +1,4 @@
-# Team Themes
+# Team Themes (In Progress)
 - Technical/practical or psychological/sociological concepts targeted at high leverage issues.
 - Vision to guide each sprint.
 
