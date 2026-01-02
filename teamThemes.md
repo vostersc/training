@@ -2,7 +2,7 @@
 - Technical/practical or psychological/sociological concepts targeted at high leverage issues.
 - Vision to guide each sprint.
 
-## Single Responsiblity Principle
+## Separation of Concerns - Single Responsiblity Principle
 - **Theory:**
   - A grouping of code (class, module, function) should do one thing. 
 - **Application:**
@@ -28,3 +28,24 @@
 
 
   So on...
+## Future Topics
+- Functional Programming - Immutability, Purity, Composition (_.fp)
+- Advanced Functional Programming - .map, .curry, lenses (conceptual), .flow, .cond, .compose
+- Dependency Inversion Principle
+- KISS
+- DRY
+- YAGNI
+- Separation of Concerns - Encapsulation
+- Separation of Concerns - Modularity
+- Separation of Concerns - Loose Coupling
+- Reuse - Generalization, Argument Structure, Purity
+- TDD
+- Scrum/Agile
+- Versioning
+- Git
+- PR Reviewing AI Generated Code
+- Documentation
+- Design Patterns - Structural (Decorator, Facade, Adapter)
+- Design Patterns - Creator (Singleton, Factory, Builder, Module, Prototype)
+- Design Patterns - Behavior (Observer, Proxy, Mediator)
+- System Design - Scalability and Performance, Security, Consistency and Accuracy, Fault Tolerance, Maintainability
