@@ -6,18 +6,15 @@ I'll try to share my own goals and problems. I hope you'll reciprocate. In my ex
 ## 1:1 Agenda
 Typically I hold one on ones at the beginning of each sprint.
 1. HR Topics
-2. Pressing Issues?
-3. Follow Up (Past Requests, Feedback, Perception, Performance, Goals, Problems)
-4. How Can the Team/Individual/TL/Manager Improve?
-5. Sprint Goal/Theme Discussion [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
-6. Next Steps
+2. RETRO: Individual/Team/Career Sprint Follow Up, Pressing Issues
+3. THEME: [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
+4. PLAN: Individual/Team/Career Goal for Next Sprint [Role](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
 
 ## 1:1 Agenda (New Dev)
 1. HR Topics
 2. Pressing Issues?
 3. Career Goals, Work History, Work Preferences, Manager Preferences, Interests
 4. Discuss Their Vertical, [Role](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
-5. Next Steps
 
 ## Suggestions
 
