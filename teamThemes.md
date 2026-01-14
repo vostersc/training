@@ -17,6 +17,7 @@
   - eg
 - **Discussion Quesions:**
   - In what ways is our team/code too strict?
+  - Are any new rules necessary? Can we avoid adding the rule?
 - **Next Steps:**
 
 ## 5 Disfunctions of a Team - Trust
@@ -47,5 +48,7 @@
 - Documentation
 - Design Patterns - Structural (Decorator, Facade, Adapter)
 - Design Patterns - Creator (Singleton, Factory, Builder, Module, Prototype)
+- [Dominant Strategies in Game Theory](https://en.wikipedia.org/wiki/Strategic_dominance) - Reframing decisions you don't always agree with.
+
 - Design Patterns - Behavior (Observer, Proxy, Mediator)
 - System Design - Scalability and Performance, Security, Consistency and Accuracy, Fault Tolerance, Maintainability
