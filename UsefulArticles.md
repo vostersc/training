@@ -43,3 +43,4 @@
 ## Misc
 - [The problem with measuring what could be completed by average points accomplished.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
 - [Improve focus and working memory with 40hz](https://www.youtube.com/watch?v=1_G60OdEzXs). [Another at 15hz](https://www.youtube.com/watch?v=U0QHUt55svg).
+- [Why the criticism sandwich is BS.](https://josezarazua.com/the-sht-sandwich-is-wrong-you-need-more-bread/)
