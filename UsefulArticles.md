@@ -39,6 +39,7 @@
 - [Building a Blameless Culture](https://postmortems.pagerduty.com/culture/blameless/?ref=chaoticgood.management). TLDR Ask "how" and "what" questions, not "why" or "who."
 - [5 Disfunctions of a Team (and how to fix them)](https://www.runn.io/blog/5-dysfunctions-of-a-team-summary)
 - [How to build people up.](https://www.youtube.com/shorts/c7K__TPVNjU) Catch them doing something well.
+- [Politics as a maladaptive coordination mechanism](https://www.reddit.com/r/EngineeringManagers/s/2K0QGziOg8). Politics comes from lack of transparency, focus on getting alignment over fostering difficult conversations, an emphasis on safety over performance.
 
 ## Misc
 - [The problem with measuring what could be completed by average points accomplished.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
