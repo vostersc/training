@@ -63,3 +63,7 @@
 **- Show some code you wrote and walk through why you set it up that way. OR Show bad code and ask them what they'd change.**
 - [Set timeOut interview question](https://www.google.com/search?q=set+timeout+question+interview+question&rlz=1C5GCEM_en&oq=set+timeout+question+interview+question&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTE2MTQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) [See also](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch5.md)
 
+## Codeing/Technical/Hands On
+- Here is a codebase you’ve never seen. Find the bug. You have 45 minutes.
+- Here is a design doc with 3 red flags. Identify them.
+- The PM wants to add this feature. Tell me why we shouldn’t.
