@@ -16,6 +16,7 @@
 - [Decoupling data access functions](https://medium.com/javascript-scene/lenses-b85976cb0534). Instead of directly accessing database items, use lenses to abstract away the data shape. If you change the data shape you just update the lense instead of your whole codebase.
 - [Designing APIs for Reuse](https://www.plektonlabs.com/api-reuse-everything-you-need-to-know-do/#:~:text=API%20Reuse%20and%20Why%20You%20Should%20Do%20It&text=It%20is%20exactly%20what%20it,systems%20on%20a%20regular%20basis.&text=%2DA%20smaller%20number%20of%20APIs,and%20vulnerabilities%20in%20your%20systems.&text=%2DWith%20API%20reuse%2C%20disruptions%20are,may%20not%20occur%20at%20all). Why combinging and reusing existing apis is often better than writing a new one from scratch.
 - [REST APIs and Related Concepts](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [Ups and Downs in SQL](https://sequelize.org/docs/v6/other-topics/migrations/). How to make more careful changes to live databases, specifically when changes depend on each other. (Eg. Changing a motorcycle table into a "vehicle" table requires key additions and deletions that must all happen together, or you want everything rolled back, especially when code dependencies.)
 
 ## Articles
 - [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
