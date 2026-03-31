@@ -35,6 +35,7 @@
 - [On Defect tracking and releases.](https://stevemcconnell.com/articles/gauging-software-readiness-with-defect-tracking/)
 
 ## Management
+- [Why software engineers struggle to communicate.](https://newsletter.manager.dev/p/explaining-understanding-and-data-compression?utm_source=newsletter.manager.dev&utm_medium=newsletter&utm_campaign=explaining-understanding-and-data-compression&_bhlid=8a529db7186094825e9a7feeb89a28e82de294cb&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiNGYyM2E4MjAtNDI3Zi00MDdkLTg0ODMtNTQwZDgxZjBiZmQ3IiwicHVibGljYXRpb25faWQiOiJhMTAyMmMwYS1hMDg3LTQzOTMtYWQwMy0yMDg1MWJmOGYyMmQiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc3NTEwOTY3OCwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3NzQ5MzY4Nzh9.8oN30QDnmLdg-n1gVbZsPubtZmw9QGK6-XiO0RM4eJE)
 - [Struggling to gain context is a driver of developer indfficiency. Could good documentation improve this?](https://www.cortex.io/report/the-2024-state-of-developer-productivity?utm_source=chatgpt.com)
 - [Design APIs Not Implementations: An alternative look at managing teams.](https://chaoticgood.management/let-your-teams-own-their-processes/)
 - [Building a Blameless Culture](https://postmortems.pagerduty.com/culture/blameless/?ref=chaoticgood.management). TLDR Ask "how" and "what" questions, not "why" or "who."
