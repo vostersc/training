@@ -16,7 +16,6 @@ For promotions you should be performing at the level you are seeking. If it walk
 ## Roles
 
 ### Junior (SWE I)
-I don't typically hire JRs.
 
 ### Mid Level (SWE II)
 Mid level engineers are primiarliy defined by their independence. They are capable of finding and fixing many issues in the application with out direct help. There will be a few complex areas of the application where they are not ready to work independently.
