@@ -51,6 +51,7 @@
 - What area of databases are you least comfortable with?
 - Talk to me about normalization, how you'd approach normalizing an unstructured database setup.
 - **Walk me through optimizing a slow SQL query. What tools would you use?**
+- Explain, Explain Analyze, Details, why one over other.
 
 
 ## JavaScript
@@ -67,6 +68,7 @@
 - [Set timeOut interview question](https://www.google.com/search?q=set+timeout+question+interview+question&rlz=1C5GCEM_en&oq=set+timeout+question+interview+question&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTE2MTQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) [See also](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch5.md)
 
 ## Technical Conversation/Coding
-- Here is a codebase you’ve never seen. Find the bug. You have X minutes. Feel free to ask questions.
+- Here is a codebase you’ve never seen. Find the bug.
+- Here is a query, explain where it can improve.
 - Here is a design doc with 3 red flags. Identify them. How would you go about pushing back, given these requests?
 - We want to build this page in the app (page). Walk me through how you'd set up the flow from the FE to the DB. Talk to me about scaling. Where do things break? Talk to me about future additions/features. What things would be more or less difficult to modify and why? What are the high risk technical spots and why?
