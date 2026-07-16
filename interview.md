@@ -46,9 +46,12 @@
 ## Databases
 - **Tell me about your experience optimizing databases.**
 - When would you choose mongo over sql.
+- How would you go about migrating a database from mongo to sql?
 - **Describe some of the past database setups you've used. What were their strengths and weaknesses?**
 - What area of databases are you least comfortable with?
 - Talk to me about normalization, how you'd approach normalizing an unstructured database setup.
+- **Walk me through optimizing a slow SQL query. What tools would you use?**
+
 
 ## JavaScript
 - **What are three things a bad codebase has?**
@@ -66,4 +69,4 @@
 ## Technical Conversation/Coding
 - Here is a codebase you’ve never seen. Find the bug. You have X minutes. Feel free to ask questions.
 - Here is a design doc with 3 red flags. Identify them. How would you go about pushing back, given these requests?
-- We want to build this page in the app (page). Walk me through how you'd set up the flow from the FE to the DB. Talk to me about scaling. Where do things break? Talk to me about future additions/features. What things would be more or less difficult to modify and why?
+- We want to build this page in the app (page). Walk me through how you'd set up the flow from the FE to the DB. Talk to me about scaling. Where do things break? Talk to me about future additions/features. What things would be more or less difficult to modify and why? What are the high risk technical spots and why?
