@@ -12,15 +12,17 @@
 - How do you feel about scrum vs. waterfall.
 - **What fictional character and world would you live in, if I made you choose one, and why?"**
 
-## Leadership
+## Leadership/Communication
 - **What have you seen work well or poorly at the organization level, the team level, and at the individual level?**
 - Tell me of a time where you had to set a deadline. What obsticles came up and how did you resolve them?
 - From your perspective, what is the core problem PRs are trying to solve?
 - What do you look for in PRs?
 - How do you deliver criticism, especially in terms of code?
 - Tell me about a time where you didn't agree with leadership and what did you do?
+- **Talk to me about task hygene. What task management systems have you used, how do you handle updates on tasks? What happens when things get blocked?**
 
 ## Architecture
+- **Talk to me about the role the database plays versus the backend logic. When does a query belong in the database versus in the backend code?**
 - **What should well written code avoid? What should it do?**
 - **Tell us about a recent project or feature that you built. Walk me through the most difficult parts.**
 - Grab some code you've written and walk me through what is happening and why you set it up the way you did.
@@ -44,7 +46,7 @@
 - Help me understand the difference between JWTs, cookies, and local storage.
 
 ## Databases
-- **Tell me about your experience optimizing databases.**
+- Tell me about your experience optimizing databases.
 - When would you choose mongo over sql.
 - How would you go about migrating a database from mongo to sql?
 - **Describe some of the past database setups you've used. What were their strengths and weaknesses?**
