@@ -35,7 +35,8 @@
 - [Bugs and refactoring - what makes a refactor worth the effort?](https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio)
 - [On Defect tracking and releases.](https://stevemcconnell.com/articles/gauging-software-readiness-with-defect-tracking/)
 
-## Management
+## Leadership, Management
+- [Servant Leadership vs Management](https://build.diligent.com/management-vs-leadership-in-software-engineering-8b1e202f737c) [Journal](https://journals.sagepub.com/doi/10.1177/21582440251403523) [Enabling versus dictating](https://medium.com/@chepkutwodc/servant-leadership-in-tech-driven-development-a-personal-journey-7e88a505d925) [Cons of servant leadership of which to beware.](https://www.leadershipiq.com/blogs/leadershipiq/the-negatives-of-servant-leadership)
 - [Why software engineers struggle to communicate.](https://newsletter.manager.dev/p/explaining-understanding-and-data-compression?utm_source=newsletter.manager.dev&utm_medium=newsletter&utm_campaign=explaining-understanding-and-data-compression&_bhlid=8a529db7186094825e9a7feeb89a28e82de294cb&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiNGYyM2E4MjAtNDI3Zi00MDdkLTg0ODMtNTQwZDgxZjBiZmQ3IiwicHVibGljYXRpb25faWQiOiJhMTAyMmMwYS1hMDg3LTQzOTMtYWQwMy0yMDg1MWJmOGYyMmQiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc3NTEwOTY3OCwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3NzQ5MzY4Nzh9.8oN30QDnmLdg-n1gVbZsPubtZmw9QGK6-XiO0RM4eJE)
 - [Struggling to gain context is a driver of developer indfficiency. Could good documentation improve this?](https://www.cortex.io/report/the-2024-state-of-developer-productivity?utm_source=chatgpt.com) Has AI eliminated or minimized this issue?
 - [Design APIs Not Implementations: An alternative look at managing teams.](https://chaoticgood.management/let-your-teams-own-their-processes/)
