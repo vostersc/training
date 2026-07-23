@@ -55,6 +55,13 @@
 - **Walk me through optimizing a slow SQL query. What tools would you use?**
 - Explain, Explain Analyze, Details, why one over other.
 
+## Backend APIs
+- Walk me through how image processing works in NodeJS at a high level. (single threaded nature, multi worker threads)
+- **How do you typically organize your backend files as your app grows? (one approach is query, util, helpers, services, tests, crons, so on...)**
+- If you needed to create an external facing API, what are some things you'd implement to ensure changes didn't wreck your customers? (docs, versioning)
+- Talk to me about the role the database plays versus the backend logic. When does a query belong in the database versus in the backend code?
+- How do you decide whether to write one API that serves a ton of data all at once, or many small apis that each serve a piece of data?
+
 
 ## JavaScript
 - **What are three things a bad codebase has?**
