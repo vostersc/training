@@ -78,6 +78,6 @@
 
 ## Technical Conversation/Coding
 - Here is a codebase you’ve never seen. Find the bug.
-- Here is a query, explain where it can improve.
+- Here is a query, explain where it can improve. Here is a table, explain how we can normalize.
 - Here is a design doc with 3 red flags. Identify them. How would you go about pushing back, given these requests?
 - We want to build this page in the app (page). Walk me through how you'd set up the flow from the FE to the DB. Talk to me about scaling. Where do things break? Talk to me about future additions/features. What things would be more or less difficult to modify and why? What are the high risk technical spots and why?
