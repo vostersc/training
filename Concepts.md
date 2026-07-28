@@ -1,4 +1,4 @@
-### Why You Should Enter All Conversations Knowing You Could Be Wrong
+### Why You Should Enter Every Conversation With the Awareness that You Could Be Wrong
 [The new and improved Gas Tesla.](https://www.youtube.com/shorts/pXVwt3BPPlE)
 
 ### Why Heavy Modularization is the Solution to the C-Suite AI Push
