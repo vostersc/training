@@ -41,7 +41,7 @@ They need to be capable of pushing back techically on PRs and in meetings. This 
 **Productive -**
 Completes enough tasks. Get in the general zone of Sr. level points. However, typically at this level we care more about quality and having fewer kick backs.
 
-### Team Lead
+### Team Lead/Staff
 Explanation
 
 **Expertise and Architecture -**
@@ -51,6 +51,15 @@ Explanation
 **Productive -** 
 
 ### Engineering Manager
+Explanation
+
+**Expertise and Architecture -**
+
+**Proactive and Communicative -**
+
+**Productive -** 
+
+### Architect/Principle
 Explanation
 
 **Expertise and Architecture -**
