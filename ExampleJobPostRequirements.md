@@ -58,5 +58,5 @@ Monthly Wellness Reimbursement benefit.
 
 The pay range for this role is:
 
-70,000 - 150,000 USD per year (Lehi Headquarters)
+0-0 USD per year (Lehi Headquarters)
 
