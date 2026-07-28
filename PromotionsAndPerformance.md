@@ -3,8 +3,8 @@ For promotions you should be performing at the level you are seeking. If it walk
 
 ## Performance Categories
 1. Dilligence - Do you work hard? Do you care about quality? Are your proactive?
-2. Teamwork - Do you proactively communicate? Do you participate and pitch in?
-3. Judgement - Can I trust what you tell me?
+2. Teamwork - Do you proactively communicate? Do you participate and pitch in? Do you keep your tasks/projects/leaders/coworkers up to date?
+3. Judgement - Can I trust what you tell me? Are you honest and transparent?
 4. Skill - How good are you at your core job?
 
 #### Rating Definitions 1 - 4
