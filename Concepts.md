@@ -41,3 +41,4 @@ Some solutions are:
 - normalize leadership and other devs making mistakes (mistake of the week)
 - stop fast/hot fixes as much as possible
 - stop focusing on verbal commitments and instead on days where they demonstrate what they've done
+- shift the focus from perfection to effort, asking people to be adaptable, learn quickly, and try hard, not to create something perfect
