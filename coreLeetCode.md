@@ -1,5 +1,7 @@
 Best to learn categories of algorithms instead of just brute forcing through. [Original source credit](https://substack.com/@alexzajac/note/c-170410052?utm_source=notes-share-action&utm_medium=web)
 
+# Algos
+
 ## Graphs
 - [Clone Graph](https://leetcode.com/problems/01-matrix)
 - [Course Schedule](https://leetcode.com/problems/course-schedule)
@@ -42,3 +44,20 @@ Best to learn categories of algorithms instead of just brute forcing through. [O
 
 ## Recursion
 - [Permutations](https://leetcode.com/problems/permutations)
+
+
+# SQL
+- Find the third most productive employee, calculating how much more productive they are than the least productive employee.
+- When a customer orders a product, the order goes through a series of steps, but somewhere there is a bug in the steps. How would you find the last state of the order?
+- Walk me through optimizing this slow query.
+
+## Optimizations
+- Explain
+- Index Structure
+
+## Window Functions
+## CTE/Subquery
+## Nth Highest
+## Duplicates
+## Join
+## Where/Having
