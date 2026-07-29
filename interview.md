@@ -53,6 +53,7 @@
 - What area of databases are you least comfortable with?
 - Talk to me about normalization, how you'd approach normalizing an unstructured database setup.
 - **Walk me through optimizing a slow SQL query. What tools would you use?**
+- How would you mitigate the strengths and weaknesses of SQL/NoSQL?
 - Explain, Explain Analyze, Details, why one over other.
 
 ## Backend APIs
