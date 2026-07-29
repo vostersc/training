@@ -14,14 +14,19 @@
 2. Are you allowing SQL injection? (Look for things like innerHtml where someone could pass in an image with an onload function.)
 ### Server Side
 1. Are you properly structuring service/controller/other files?
-2. Are you mananging security concerns like SQL injection? Are you validating inputs?
+2. Are you managing security concerns like SQL injection? Are you validating inputs?
+### SQL
+1. Have you tested the queries you've written or modified?
+### DevOps
+1. Are you making any breaking changes here? How will your changes affect other environments (QA, Live, Dev)
 ### Architecture
-1. Is your code modular? Are the inputs and outputs well defined? Are issue areas correctly isolated?
+1. Is your code modular? Are the inputs and outputs well defined? Are issue areas correctly isolated? (Single responsibility, separation of concerns, so on...)
+2. How are you affecting reliability, security, scalability?
 ### Big Picture
 1. How is this PR an improvement on your last one?
 2. Are you committing the repo/team/company to repos/patterns that will make things difficult in the long run?
 3. Did you leave the section of better then you found it? Are you just tossing in conditionals to catch the issue you are fixing for or are you resolving the core issue?
 4. If you had to argue that your code is bad, what would you say? What area in this PR is most likely to get you [Dunning Krugered](https://www.britannica.com/science/Dunning-Kruger-effect)?
-### Political
+### Business/Political
 1. How does this task support a high visibility organization agenda item?
   - For example: this PR reduces new customer churn by eliminating setup bugs.
