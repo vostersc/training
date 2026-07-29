@@ -3,8 +3,8 @@
 - Give me an idea of your non-work background. For example, what hobbies do you have, how did you start the hobby? Why do you like about it?
 
 ## RESUME/CULTURE QUESTIONS
-- At XXX we are solving XXX, to do that we present a dashboard to our users. In order to present the dashboard, we use React, Node, Postgres, AWS, Docker.
-  - Tell me about the last place you worked. What was the problem they were solving, and how did they use the tech stack to solve that issue?
+- At OP we help apartment complexes understand how their residents feel about them, to do that we present a dashboard to our users that shows things like reviews about the complex. In order to present the dashboard, we use Vue/React, Node, Postgres/Mongo, AWS, Docker. (lambda auth, CRONS, Dash, Deploy, Docker local dev)
+  - Tell me about the last place you worked. What has the tech stack they were on and what did each piece do?
 - Tell me about a time when you were given a vague or poorly defined task task?
 - What do you look for when you review another person's code?
 - What was the last big mistake that you made and what did you learn?
