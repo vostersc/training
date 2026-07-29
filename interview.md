@@ -57,8 +57,6 @@
 - Explain, Explain Analyze, Details, why one over other.
   - Signals that you should add an index?
     - EGs: too much scanning shows up (ALL, nested loop, 1000 rows scanned is close to total table size, second or third join is missing KEY col means index not present for those, explain analyze has huge differences between estimates and actuals)
-  - Signals that your sequence is off in the way you wrote your query?
-    - high row count
   - Signals that you are having memory or concurrency issues?
     - M EGs: "external merge disk" or "spills" showing - group by or distinct is causing mem run over
     - C EGs: high IO timings b/c data isn't in ram but disk, gap between first and second query step 5ms for first 5ms for second but whole thing takes 4000ms
