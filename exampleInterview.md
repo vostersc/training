@@ -17,12 +17,18 @@
   - A new developer comes onto this project. What are the areas with the most technical risk? Where are they likely to break something?
 
 ## ARCHITECTURE
+  - Beginning at your computer, explain how a request to a website works. Start at when you enter the website name into the browser.
   - FE
     - You have a slow dashboard. How would you go about improving performance? (cloudfront, caching, memoize, simplify data storage, cookies)
     - How do you decide between SSR and standard FE/BE separate setup?
   - BE
     - How do you decide what logic gets handled in the backend vs SQL?
     - What design patterns do you find yourself using in the backend code? (Eg decorators adding info to headers, lenses decouple db from getters)
+    - When would you use something like micro-services versus more of a monolith setup?
+    - Horizontal v. Vertical Scaling?
+  - CLOUD/DEVOPS
+    - Give me an example of how a typical CICD system is set up.
+    - What AWS services are you familiar with and what problem did each service solve?
   - You have a slow query. How would you address that slowness?
      - What tools exist to help you address slowness? (Explain analyze)
      - What kinds of things are you going to see if your query needs an index? (full table scans)
