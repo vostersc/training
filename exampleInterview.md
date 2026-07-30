@@ -34,3 +34,7 @@
      - What kinds of things are you going to see if your query needs an index? (full table scans)
 
 ## QUESTIONS
+
+## NOTES
+Rate people on: (1) Communication (2) Culture Fit (3) Architecture (4) Programming
+
