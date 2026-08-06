@@ -1,3 +1,6 @@
+### Quotes
+- "So here’s a sign that you’ve hired the wrong people: you have to start making stupid rules. All of a sudden you're like, 'I can’t believe I have to tell people to stop watching Netflix on the job, or don’t steal each other’s food, or don’t show up to a work event drunk.' It’s like, these are obvious things. And then you wonder, 'Man, these people are so dumb.' The only person dumber than that would be the person who’s hiring them." - Alex Hormozi
+
 ### Why You Should Enter Every Conversation With the Awareness that You Could Be Wrong
 [The new and improved Gas Tesla.](https://www.youtube.com/shorts/pXVwt3BPPlE)
 
