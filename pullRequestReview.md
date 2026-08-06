@@ -30,3 +30,10 @@
 ### Business/Political
 1. How does this task support a high visibility organization agenda item?
   - For example: this PR reduces new customer churn by eliminating setup bugs.
+
+### Misc and AI
+- Consider having AI agents loop through and check certain things, kind of like linters. EG: AI XP Programming reviewer.
+- Create files owners that require certain individuals to approve changes to certain files.
+- Create file denies that require certain check flows when people make those changes.
+- Have a [deny list](https://www.linkedin.com/pulse/stop-being-code-review-bottleneck-posthog-8rqwc) that stops AI from working/modifying/generating certain areas of code, like secrets/so on.
+- Chunk up AI agent validation steps, so it doesn't hallucinate as much.
