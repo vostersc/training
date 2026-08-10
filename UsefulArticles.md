@@ -48,7 +48,7 @@
 
 ## Misc
 - [Themes and Theories relevant to SWE teams](https://github.com/vostersc/training/blob/main/teamThemes.md)
-- [The problem with measuring what could be completed by average points accomplished.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
+- [The problem with predicting future performance using average performance.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
 - [How to better communicate your ideas so they get picked up and supported.](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI) 
 - [Improve focus and working memory with 40hz](https://www.youtube.com/watch?v=1_G60OdEzXs). [Another at 15hz](https://www.youtube.com/watch?v=U0QHUt55svg).
 - [Why the criticism sandwich is BS.](https://josezarazua.com/the-sht-sandwich-is-wrong-you-need-more-bread/)
