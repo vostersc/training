@@ -44,6 +44,7 @@
 - Scrum/Agile
 - Versioning
 - Git
+- One way vs two way decisions [Bezos](https://medium.com/one-to-n/one-way-two-way-door-decisions-a0e29029e200)
 - PR Reviewing AI Generated Code
 - Documentation
 - Design Patterns - Structural (Decorator, Facade, Adapter)
