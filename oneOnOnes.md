@@ -9,7 +9,7 @@ I prepare for this meeting and I expect you to come prepared with at least one t
 Typically I hold one on ones at the beginning of each sprint.
 1. HR: Topics, follow up from last meeting.
 2. YOUR AGENDA: What is the most important thing we should be talking about right now? Roadblocks? What is on your mind? - Consider setting a reminder to tell team leads/devs to come prepared with topics to discuss.
-3. RETRO: Individual/Team/Career Sprint Follow Up, Pressing Issues
+3. RETRO: Individual/Team/Career Sprint Follow Up, Pressing Issues. Use OKRs, KPIs, other metrics.
 4. THEME: [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
 5. PLAN: Individual/Team/Career Goal for Next Sprint [Role](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
 
@@ -22,6 +22,7 @@ Typically I hold one on ones at the beginning of each sprint.
 ## Suggestions
 
 ### Potential 1:1 discussion topics:
+- What is on your mind this week?
 - Follow up on past 1:1s, problems, and goals. How are you progressing with the feedback you've received?
 - What problems or sub optimal situations can we fix/eliminate/minimize?
 - Career goals and direction. Are your tasks moving you in the right direction? Are you excited about any future projects or initiatives?
