@@ -7,8 +7,8 @@ I prepare for this meeting and I expect you to come prepared with at least one t
 
 ## 1:1 Agenda
 Typically I hold one on ones at the beginning of each sprint.
-1. HR: Topics
-2. YOUR AGENDA: What is the most important thing we should be talking about right now? Roadblocks? What is on your mind?
+1. HR: Topics, follow up from last meeting.
+2. YOUR AGENDA: What is the most important thing we should be talking about right now? Roadblocks? What is on your mind? - Consider setting a reminder to tell team leads/devs to come prepared with topics to discuss.
 3. RETRO: Individual/Team/Career Sprint Follow Up, Pressing Issues
 4. THEME: [Examples](https://github.com/vostersc/training/blob/main/teamThemes.md)
 5. PLAN: Individual/Team/Career Goal for Next Sprint [Role](https://github.com/vostersc/training/blob/main/PromotionsAndPerformance.md)
@@ -36,6 +36,19 @@ Typically I hold one on ones at the beginning of each sprint.
 - I want to work on X skill. What should I do?
 - I want Y promotion. What stands in the way? How is the team/how am I perceived?
 - I think A, B, C. What direction is the company headed in regards to those topics?
+
+**Questions managers can ask their reports**
+- How are you feeling about your current workload and projects?
+- How do you feel you’re progressing toward goal X?
+- What else can I and the team do to support you?
+- How is your work-life balance?
+- How can the team improve?
+
+**Questions individual contributors can ask their managers**
+- Can you give me more insight into why the company/team/etc did X?
+- What’s your highest priority right now?
+- Is there an aspect of my role you’d like more visibility into?
+- Do you have any feedback for me?
 
 ### How to Come Prepared:
 - If you struggle to come prepared for 1:1s, you can use this retro esque framework: (1) Weekly wins (2) Blockers (3) Career Growth.
