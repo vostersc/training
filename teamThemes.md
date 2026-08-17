@@ -36,6 +36,7 @@
 - KISS
 - DRY
 - YAGNI
+- Product minded engineer [source](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 
 - Separation of Concerns - Encapsulation
 - Separation of Concerns - Modularity
 - Separation of Concerns - Loose Coupling
@@ -50,6 +51,6 @@
 - Design Patterns - Structural (Decorator, Facade, Adapter)
 - Design Patterns - Creator (Singleton, Factory, Builder, Module, Prototype)
 - [Dominant Strategies in Game Theory](https://en.wikipedia.org/wiki/Strategic_dominance) - Reframing decisions you don't always agree with.
-
+- [Emergence in complex systems, and what to do if detailed planning doesn't work ideal.](https://www.kathleenschaub.com/blog/emergence-the-transformational-power-of-connection) 
 - Design Patterns - Behavior (Observer, Proxy, Mediator)
 - System Design - Scalability and Performance, Security, Consistency and Accuracy, Fault Tolerance, Maintainability
