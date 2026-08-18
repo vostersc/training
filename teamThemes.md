@@ -48,6 +48,7 @@
 - One way vs two way decisions [Bezos](https://medium.com/one-to-n/one-way-two-way-door-decisions-a0e29029e200)
 - PR Reviewing AI Generated Code
 - Documentation
+- [What makes a top tier team](https://www.manager.dev/newsletter/okay-vs-excellent-engineering-teams?utm_source=managerdotdev.beehiiv.com&utm_medium=newsletter&utm_campaign=extreme-programming-1999-2026&sid=sub_454484f3-ecd3-4c56-8d39-d4a6ee2fd5af&_bhlid=726db7ab87c6b028c67426b212f9155e68b2e92c)
 - Design Patterns - Structural (Decorator, Facade, Adapter)
 - Design Patterns - Creator (Singleton, Factory, Builder, Module, Prototype)
 - [Dominant Strategies in Game Theory](https://en.wikipedia.org/wiki/Strategic_dominance) - Reframing decisions you don't always agree with.
