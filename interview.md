@@ -28,6 +28,8 @@
 - Grab some code you've written and walk me through what is happening and why you set it up the way you did.
 - **What design patterns do you find yourself using on the regular? (1) Adapter to go between db and frontend object expectations (2) Decorator for adding on headers, a limited db object (3) Facade/Lenses/Interfaces to simplify interaction with complex data or query systems, or to abstract away the data structure itself so it can change (4) Observer to notify children of parent updates**
 - Have them build YouTube.
+- How do you cut down on a buggy system?
+- How do you document a codebase with tons of edge cases? [for more info](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl0
 
 ## DevOps
 - **Tell us about a devOps system that you set up that you are proud of and why.**
