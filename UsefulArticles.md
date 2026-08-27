@@ -29,7 +29,7 @@
 - [A great book on mastering Git](https://git-scm.com/book/en/v2)
 
 ## Bugs
-- Complex codebases have many edge cases. How should you best document these edge cases? Consider using tests. ["Edge Case Testing"](https://www.virtuosoqa.com/post/edge-case-testing). Here is a great [article](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) about how test are documentation. And [here](https://softwareengineering.stackexchange.com/questions/154615/are-unit-tests-really-used-as-documentation).
+- Complex codebases have many edge cases. How should you best document these edge cases? Consider using tests. ["Edge Case Testing"](https://www.virtuosoqa.com/post/edge-case-testing). Here is a great [article](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) about how test are documentation. And [here](https://softwareengineering.stackexchange.com/questions/154615/are-unit-tests-really-used-as-documentation). [More on behavior driven development.](https://testomat.io/blog/writing-bdd-test-cases-in-agile-software-development-examples-best-practices-test-case-templates/)
 - [The role of the PR in reducing bugs.](https://newsletter.manager.dev/p/the-price-of-mandatory-code-reviews?r=k2zdd&utm_medium=ios&triedRedirect=true)
 - [Stack overflow on the bugs per line of code.](https://stackoverflow.com/questions/2898571/basis-for-claim-that-the-number-of-bugs-per-line-of-code-is-constant-regardless)
 - [Industry average of bugs per line in production is between 1 and 5 per 100 lines, depending on complexity, competence, other related factors.](https://amartester.blogspot.com/2007/04/bugs-per-lines-of-code.html?ck_subscriber_id=2400214932&utm_source=convertkit&utm_medium=email&utm_campaign=Let+small+fires+burn+-+14774391&m=1)
