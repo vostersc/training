@@ -19,14 +19,9 @@
 - [Ups and Downs in SQL](https://sequelize.org/docs/v6/other-topics/migrations/). How to make more careful changes to live databases, specifically when changes depend on each other. (Eg. Changing a motorcycle table into a "vehicle" table requires key additions and deletions that must all happen together, or you want everything rolled back, especially when code dependencies.)
 - [What role should SQL play in the typical web app?](https://enterprisecraftsmanship.com/posts/is-sql-good-place-for-business-logic/) SQL handling business logic vs more simple simple queries while js/ts handles the logic.
 
-## Articles
-- [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
-- [Naming for CSS.](https://getbem.com/introduction/)
-- [Thinking in Ramda. The best practical functional programming set of articles, by a long shot.](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
-
-## Books
-- [The best book for mastering Javascript.](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
-- [A great book on mastering Git](https://git-scm.com/book/en/v2)
+## Product
+- [How I believe product/TLs should try to write tasks](https://testomat.io/blog/writing-bdd-test-cases-in-agile-software-development-examples-best-practices-test-case-templates/)
+- [Engineer trajectory, becoming a product minded SWE](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 
 
 ## Bugs
 - Complex codebases have many edge cases. How should you best document these edge cases? Consider using tests. ["Edge Case Testing"](https://www.virtuosoqa.com/post/edge-case-testing). Here is a great [article](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) about how test are documentation. And [here](https://softwareengineering.stackexchange.com/questions/154615/are-unit-tests-really-used-as-documentation). [More on behavior driven development.](https://testomat.io/blog/writing-bdd-test-cases-in-agile-software-development-examples-best-practices-test-case-templates/)
@@ -48,7 +43,14 @@
 - [Politics as a maladaptive coordination mechanism](https://www.reddit.com/r/EngineeringManagers/s/2K0QGziOg8). Politics comes from lack of transparency, focus on getting alignment over fostering difficult conversations, an emphasis on safety over performance.
 - Hiring - If you have to make dumb rules, the only person dumber than the one breaking the rules is the person who hired them. [Quote](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI) 
 
+## Books
+- [The best book for mastering Javascript.](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+- [A great book on mastering Git](https://git-scm.com/book/en/v2)
+
 ## Misc
+- [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
+- [Naming for CSS.](https://getbem.com/introduction/)
+- [Thinking in Ramda. The best practical functional programming set of articles, by a long shot.](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
 - [Why you should be wary of detailed and long term plans: emergence in complex systems. In other words, use heuristics, patterns, cycles, and fewer detailed plans.](https://www.kathleenschaub.com/blog/emergence-the-transformational-power-of-connection)
 - [Themes and Theories relevant to SWE teams](https://github.com/vostersc/training/blob/main/teamThemes.md)
 - [The problem with predicting future performance using average performance.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
