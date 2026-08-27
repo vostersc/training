@@ -36,6 +36,7 @@
 - KISS
 - DRY
 - YAGNI
+- Edge case testing [for reducing "the fix broke something else" bugs.](https://www.virtuosoqa.com/post/edge-case-testing)
 - Product minded engineer [source](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 
 - Separation of Concerns - Encapsulation
 - Separation of Concerns - Modularity
