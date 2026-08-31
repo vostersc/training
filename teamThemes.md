@@ -53,6 +53,7 @@
 - Design Patterns - Structural (Decorator, Facade, Adapter)
 - Design Patterns - Creator (Singleton, Factory, Builder, Module, Prototype)
 - [Dominant Strategies in Game Theory](https://en.wikipedia.org/wiki/Strategic_dominance) - Reframing decisions you don't always agree with.
-- [Emergence in complex systems, and what to do if detailed planning doesn't work ideal.](https://www.kathleenschaub.com/blog/emergence-the-transformational-power-of-connection) 
+- [Emergence in complex systems, and what to do if detailed planning doesn't work ideal.](https://www.kathleenschaub.com/blog/emergence-the-transformational-power-of-connection)
+- Counterfactual postmortems - Maybe you released a successful project with no problems. Counterfactual postmortems ask "what could have gone wrong that didn't" and "how could we have done this better?"
 - Design Patterns - Behavior (Observer, Proxy, Mediator)
 - System Design - Scalability and Performance, Security, Consistency and Accuracy, Fault Tolerance, Maintainability
