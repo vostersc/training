@@ -49,6 +49,7 @@
 - [A great book on mastering Git](https://git-scm.com/book/en/v2)
 
 ## Misc
+- [With AI the focus of engineering with move to architecture regarding the interfaces and the types](https://www.youtube.com/shorts/u7q9Ngu6DfA) (essentially contracts).
 - [Easy explainer on mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
 - [Naming for CSS.](https://getbem.com/introduction/)
 - [Thinking in Ramda. The best practical functional programming set of articles, by a long shot.](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
