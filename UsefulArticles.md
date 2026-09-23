@@ -42,7 +42,8 @@
 - [5 Disfunctions of a Team (and how to fix them)](https://www.runn.io/blog/5-dysfunctions-of-a-team-summary)
 - [How to build people up.](https://www.youtube.com/shorts/c7K__TPVNjU) Catch them doing something well.
 - [Politics as a maladaptive coordination mechanism](https://www.reddit.com/r/EngineeringManagers/s/2K0QGziOg8). Politics comes from lack of transparency, focus on getting alignment over fostering difficult conversations, an emphasis on safety over performance.
-- Hiring - If you have to make dumb rules, the only person dumber than the one breaking the rules is the person who hired them. [Quote](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI) 
+- Hiring - If you have to make dumb rules, the only person dumber than the one breaking the rules is the person who hired them. [Quote](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI)
+- Sociological approach to group structure. This article is not a core SWE article, but towards the end it discusses very relevant patterns that are conceptually relevant to how SWEs structure teams. The core point being not enough structure starts having consequences, consequences solved by people who start instantiating the very structure the group was trying to avoid. The key seems to be in finding a spot between totalitarian and anarchistic patterns in a way that helps get you closer to a goal. [article](https://www.jofreeman.com/joreen/tyranny.htm) 
 
 ## Books
 - [The best book for mastering Javascript.](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
