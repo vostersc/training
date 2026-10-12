@@ -45,6 +45,10 @@
 - Hiring - If you have to make dumb rules, the only person dumber than the one breaking the rules is the person who hired them. [Quote](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI)
 - Sociological approach to group structure. This article is not a core SWE article, but towards the end it discusses very relevant patterns that are conceptually relevant to how SWEs structure teams. The core point being not enough structure starts having consequences, consequences solved by people who start instantiating the very structure the group was trying to avoid. The key seems to be in finding a spot between totalitarian and anarchistic patterns in a way that helps get you closer to a goal. [article](https://www.jofreeman.com/joreen/tyranny.htm) 
 
+## Communication
+- [Keep everything in a public channel](https://www.practicalengineering.management/p/the-best-team-i-know-writes-everything?utm_source=substack&publication_id=2158401&post_id=219435539&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=k2zdd&triedRedirect=true)
+- [How to better communicate your ideas so they get picked up and supported.](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI)
+
 ## Books
 - [The best book for mastering Javascript.](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 - [A great book on mastering Git](https://git-scm.com/book/en/v2)
@@ -57,7 +61,6 @@
 - [Why you should be wary of detailed and long term plans: emergence in complex systems. In other words, use heuristics, patterns, cycles, and fewer detailed plans.](https://www.kathleenschaub.com/blog/emergence-the-transformational-power-of-connection)
 - [Themes and Theories relevant to SWE teams](https://github.com/vostersc/training/blob/main/teamThemes.md)
 - [The problem with predicting future performance using average performance.](https://media.licdn.com/dms/image/v2/C5612AQGO7MewiRYkjQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1522313085615?e=2147483647&v=beta&t=5dLjjIKIQR-DN24IvDrpK2qCtVy0mCN15pLO_1mwel0) [Book](https://www.flawofaverages.com/bookshttps://www.flawofaverages.com/books)
-- [How to better communicate your ideas so they get picked up and supported.](https://www.google.com/url?q=https://youtube.com/shorts/BpcXwYb2YAc?is%3DfaEra0iNIhtCFrtK&source=gmail-imap&ust=1786157533000000&usg=AOvVaw3z-TV6-CjYapP3fw7-1_NI)
 - [Creating product minded engineers](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Understanding and working with Terraform](https://www.gruntwork.io/blog/a-comprehensive-guide-to-terraform)
 - [Improve focus and working memory with 40hz](https://www.youtube.com/watch?v=1_G60OdEzXs). [Another at 15hz](https://www.youtube.com/watch?v=U0QHUt55svg).
