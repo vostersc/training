@@ -34,6 +34,8 @@ In contrast, I've found that focusing on habits gives me a more stable platform 
 
 If you want to know how to create a powerful habit, consider implementing the principle of Kaizen. To create a habit, kaizen says to ask "what is the most ridiculously small step I can take towards my goal," and then just do that
 
+If you struggle with procrastination or low motivation, check out this [youtube channel](https://www.youtube.com/@drdavidmaloneypsychotherapy). His general argument is that your root problem is failing to keep promises to yourself. When you decide to start at 7am, but don't start until later, you teach yourself not to trust your commitments. Instead, (among other things), when you fail to start at the agreed upon time, take the rest of the day to think about why you avoided that start time. Often part of the answer is that you are not creating enough true leisure time. This is time completely separated from productivity and outputs, arguably pointlessly not productive time. Every human needs some of this time or we will start procrastinating. There is quite a bit more to his system, but it is quite effective. Essentially you will become hyper aware of every little thing that will cause you to fail to stick to your commitments. It helped me become more consistent.
+
 ### How to Avoid Finger Pointing in Retrospectives
 How do you have a Retro/Meeting where you discuss issues while avoiding finger pointing? 
 
